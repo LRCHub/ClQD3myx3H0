@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Lose It",
+  "base_artist": "Oh Wonder",
+  "createdAt": "2026-03-29T14:45:59.080003Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lose It",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/01_Lose_It_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lose It (In The End)",
+      "artist": "Mark Ronson & The Business Intl",
+      "has_synced": true,
+      "path": "select/02_Lose_It_(In_The_End)_Mark_Ronson_&_The_Business_Intl.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lose It (In The End) (Featuring Mark Ronson, Ghostface Killah, Alex Greenwald)",
+      "artist": "Mark Ronson & The Business Intl.",
+      "has_synced": true,
+      "path": "select/03_Lose_It_(In_The_End)_(Featuring_Mark_Ronson,_Ghostface_Killah,_Alex_Greenwald)_Mark_Ronson_&_The_Business_Intl..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Use It Or Lose It",
+      "artist": "Cameo",
+      "has_synced": true,
+      "path": "select/04_Use_It_Or_Lose_It_Cameo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lose It",
+      "artist": "Supergrass",
+      "has_synced": true,
+      "path": "select/05_Lose_It_Supergrass.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lose It",
+      "artist": "Supergrass",
+      "has_synced": false,
+      "path": "select/06_Lose_It_Supergrass.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lose It",
+      "artist": "Austra",
+      "has_synced": true,
+      "path": "select/07_Lose_It_Austra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lose It",
+      "artist": "Austra",
+      "has_synced": true,
+      "path": "select/08_Lose_It_Austra.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lose It",
+      "artist": "Flume feat. Vic Mensa",
+      "has_synced": true,
+      "path": "select/09_Lose_It_Flume_feat._Vic_Mensa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lose It (feat. Vic Mensa)",
+      "artist": "Flume",
+      "has_synced": true,
+      "path": "select/10_Lose_It_(feat._Vic_Mensa)_Flume.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Use It Or Lose It",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/11_Use_It_Or_Lose_It_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lose It",
+      "artist": "Atreyu",
+      "has_synced": false,
+      "path": "select/12_Lose_It_Atreyu.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lose It",
+      "artist": "Atreyu",
+      "has_synced": true,
+      "path": "select/13_Lose_It_Atreyu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lose It All",
+      "artist": "Therapy?",
+      "has_synced": true,
+      "path": "select/14_Lose_It_All_Therapy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "LOSE IT",
+      "artist": "Quavo feat. Lil Baby",
+      "has_synced": true,
+      "path": "select/15_LOSE_IT_Quavo_feat._Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lose It (feat. Lil Baby)",
+      "artist": "Quavo",
+      "has_synced": true,
+      "path": "select/16_Lose_It_(feat._Lil_Baby)_Quavo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lose It All",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/17_Lose_It_All_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lose It",
+      "artist": "Oh Wonder",
+      "has_synced": false,
+      "path": "select/pl_01_Lose_It_Oh_Wonder.txt"
+    }
+  ]
+}
